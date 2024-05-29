@@ -20,12 +20,4 @@ A simple E-Library made from HTML, CSS and PHP. One can host this on their local
 - Aralu Kenechukwu Chidiebere
 
 
-### Screenshots
-
-![ByteBook e-library home]()
-
-![ByteBook e-library main]()
-
-
-
 
